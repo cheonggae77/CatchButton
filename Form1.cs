@@ -8,6 +8,7 @@ namespace CatchButton
         private int score = 0;
         private int title1 = 0;
         private int title2 = 0;
+        private int count1 = 0;
 
         public Form1()
         {
@@ -39,7 +40,14 @@ namespace CatchButton
             title1 = nextX;
             title2 = nextY;
             score = score - 10;
+            count1++;
             titlename();
+            if (count1 == 20)
+            {
+                MessageBox.Show("Game Over");
+                running_button.Enabled = false;
+
+            }
         }
 
         private void running_button_Click(object sender, EventArgs e)
