@@ -6,7 +6,7 @@
 <img width="897" height="500" alt="1단계 1" src="https://github.com/user-attachments/assets/4cbb39b3-1393-41c9-959a-019ade0a1191" />
 <img width="877" height="492" alt="1단계 2" src="https://github.com/user-attachments/assets/868570c7-c02b-4d56-bddc-046d88e1a50b" />
 
-
+커서가 버튼에 들어갔을때 버튼 위치가 변경되었음.
 - 2단계 코드의 실행 스크린샷
 - 3단계 코드의 실행 스크린샷
 - 4단계 코드의 실행 스크린샷
