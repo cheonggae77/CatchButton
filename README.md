@@ -12,5 +12,9 @@
 
 메세지 박스 출력
 - 3단계 코드의 실행 스크린샷
+<img width="880" height="495" alt="3단계 1" src="https://github.com/user-attachments/assets/64d2f630-6ff7-4dc6-bdf5-5180aaf7c498" />
+<img width="885" height="491" alt="3단계 2" src="https://github.com/user-attachments/assets/a498ae7a-c295-42f7-bd6e-e448baa0b98c" />
+
+점수기능 추가 및 클릭시 크기 감소 기능 추가
 - 4단계 코드의 실행 스크린샷
 ## 구현 시 어려웠던 점
