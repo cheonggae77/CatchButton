@@ -8,6 +8,9 @@
 
 커서가 버튼에 들어갔을때 버튼 위치가 변경되었음.
 - 2단계 코드의 실행 스크린샷
+<img width="962" height="628" alt="2단계" src="https://github.com/user-attachments/assets/b07e3eb2-a889-4393-8dc4-4bbac5a731b9" />
+
+메세지 박스 출력
 - 3단계 코드의 실행 스크린샷
 - 4단계 코드의 실행 스크린샷
 ## 구현 시 어려웠던 점
