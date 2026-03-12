@@ -18,7 +18,8 @@
 점수기능 추가 및 클릭시 크기 감소 기능 추가
 - 4단계 코드의 실행 스크린샷
 <img width="915" height="571" alt="4단계1" src="https://github.com/user-attachments/assets/520302c2-379b-403c-997f-11a5f38c024a" />
+<img width="876" height="491" alt="4단계2" src="https://github.com/user-attachments/assets/c113178b-b9c1-4424-acb3-a6b73b3f0a4a" />
 
-
-- 
+게임오버 메세지 박스 및 재시작 기능 추가
 ## 구현 시 어려웠던 점
+1. 재시작시 다시시작 버튼을 나타났다 사라지게 한게 어려웠다.
