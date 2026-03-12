@@ -23,5 +23,10 @@
             // 5. 시각적 피드백 (폼 제목 표시줄에 좌표 출력)
             this.Text = $"버튼 위치: ({nextX}, {nextY})";
         }
+
+        private void running_button_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("축하합니다~!");
+        }
     }
 }
